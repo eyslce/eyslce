@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyslce&show_icons=true&count_private=true&hide=html,css,ejs,pug,Makefile,Dockerfile,SCSS,NSIS" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=eyslce&show_icons=true&count_private=true&include_all_commits=true" />
